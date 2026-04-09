@@ -1,0 +1,35 @@
+Conditions Générales d’Utilisation (CGU)
+Dernière mise à jour : 07/04/2025
+Bienvenue sur ISC Foosball Rank ! En accédant à cette application pour smartphone et les sites webs associés https://leaderboard-isc-foosball.shinyapps.io/foosballrank1/ et https://www.heroku.com/, vous acceptez pleinement et entièrement les présentes Conditions Générales d’Utilisation.
+---
+1. Présentation du service
+ISC Foosball Rank est une plateforme dédiée à la vie sociale autour du babyfoot (football de table) au sein de la communauté de l’ISC. Ce service est proposé à titre personnel et gratuit.
+---
+2. Accès à l’application
+L’application pour smartphone est accessible et utilisable gratuitement à tout utilisateur disposant d’un compte personnel. L’utilisateur s’engage à ce que toutes les informations des matchs rentrés dans l’application concernent uniquement des joueurs ayant consenti à la collecte des données de leurs matchs et ayant accepté les présentes CGU.
+---
+3. Accès aux sites
+Les sites sont accessibles gratuitement à tout utilisateur disposant d’un accès à Internet. Certaines fonctionnalités peuvent nécessiter la création d’un compte. L’utilisateur s’engage à fournir des informations exactes lors de l’inscription et à respecter un usage raisonnable et respectueux du service.
+---
+3. Propriété intellectuelle
+Tout le contenu présent dans l’application et sur les sites (textes, images, logos, etc.) est protégé par le droit d’auteur. Toute reproduction, même partielle, est interdite sans autorisation.
+---
+4. Responsabilité
+Les auteurs de l’application et des sites (Toan NONG, Gaël CARNIEL et Hicham DAHMOU) s’efforcent de maintenir un service accessible et à jour, mais ne garantissent pas l’absence d’erreurs ou d’interruptions. L’utilisateur est seul responsable de l’usage qu’il fait du site et de son contenu.
+---
+5. Données personnelles
+Les données personnelles collectées sont les noms des joueurs, leurs informations de match de babyfoot, et leur adresse email. Elles sont collectées pour le bon fonctionnement de l’application, afin d’améliorer la qualités des services proposés, et à des fins scientifiques. Aucune donnée personnelle n’est collectée à des fins commerciales. Si certaines données sont demandées (ex : adresse e-mail pour un formulaire), elles ne sont utilisées que pour répondre à des besoins des utilisateurs et/ou de la plateforme et à son bon fonctionnement. Les données sont stockées sur une plateforme de stockage de données gratuite (herokuapp.com). Conformément au RGPD, vous pouvez demander la suppression de vos données à tout moment via tnong@isc.cnrs.fr/gael.carniel@isc.cnrs.fr/hicham.dahmou@isc.cnrs.fr.
+---
+6. Loi applicable
+Les présentes CGU sont régies par le droit français. En cas de litige, les tribunaux compétents seront ceux de la juridiction de Lyon et/ou d’Auvergne-Rhône-Alpes.
+---
+Terms of Use (ToU)
+Last updated: 07/04/2025
+Welcome to ISC Foosball Rank! By accessing this smartphone application and the associated websites https://leaderboard-isc-foosball.shinyapps.io/foosballrank1/ and https://www.heroku.com/, you fully and unconditionally agree to these Terms of Use.
+1. Service Overview ISC Foosball Rank is a platform dedicated to the social life surrounding foosball (table football) within the ISC community. This service is provided on a personal and free-of-charge basis.
+2. Access to the App The smartphone app is freely accessible and usable by any user with a personal account. The user agrees that all match information entered into the app concerns only players who have consented to the collection of their match data and accepted these Terms of Use.
+3. Access to the Websites The websites are freely accessible to any user with an Internet connection. Some features may require account creation. The user agrees to provide accurate information during registration and to use the service reasonably and respectfully.
+4. Intellectual Property All content within the app and on the websites (texts, images, logos, etc.) is protected by copyright law. Any reproduction, even partial, is prohibited without permission.
+5. Liability The authors of the app and websites (Toan NONG, Gaël CARNIEL, and Hicham DAHMOU) strive to maintain an accessible and up-to-date service but do not guarantee the absence of errors or interruptions. Users are solely responsible for how they use the site and its content.
+6. Personal Data The personal data collected includes players' names, foosball match information, and email addresses. This data is collected for the application to function properly, to improve the services offered and for scientific purposes. No personal data is collected for commercial use. If certain data is requested (e.g., an email address in a form), it is used solely to meet the needs of the users and/or the platform and ensure its proper functioning. Data is stored on a free hosting platform (herokuapp.com). In accordance with the GDPR, you may request the deletion of your data at any time by contacting tnong@isc.cnrs.fr, gael.carniel@isc.cnrs.fr, or hicham.dahmou@isc.cnrs.fr.
+7. Governing Law These Terms of Use are governed by French law. In the event of a dispute, the competent courts will be those located in the jurisdiction of Lyon and/or the Auvergne-Rhône-Alpes region.
